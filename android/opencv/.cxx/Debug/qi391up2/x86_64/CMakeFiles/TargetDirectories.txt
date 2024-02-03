@@ -1,0 +1,3 @@
+D:/App/OpenCV/opencv/.cxx/Debug/qi391up2/x86_64/CMakeFiles/opencv_jni_shared.dir
+D:/App/OpenCV/opencv/.cxx/Debug/qi391up2/x86_64/CMakeFiles/edit_cache.dir
+D:/App/OpenCV/opencv/.cxx/Debug/qi391up2/x86_64/CMakeFiles/rebuild_cache.dir

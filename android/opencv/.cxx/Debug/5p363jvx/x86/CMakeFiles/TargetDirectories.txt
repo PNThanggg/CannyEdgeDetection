@@ -1,0 +1,3 @@
+D:/App/untitled/android/opencv/.cxx/Debug/5p363jvx/x86/CMakeFiles/opencv_jni_shared.dir
+D:/App/untitled/android/opencv/.cxx/Debug/5p363jvx/x86/CMakeFiles/edit_cache.dir
+D:/App/untitled/android/opencv/.cxx/Debug/5p363jvx/x86/CMakeFiles/rebuild_cache.dir
