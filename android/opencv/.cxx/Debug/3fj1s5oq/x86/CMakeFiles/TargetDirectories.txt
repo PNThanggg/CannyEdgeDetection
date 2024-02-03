@@ -1,3 +1,0 @@
-D:/App/Canny Edge Detection Flutter/android/opencv/.cxx/Debug/3fj1s5oq/x86/CMakeFiles/opencv_jni_shared.dir
-D:/App/Canny Edge Detection Flutter/android/opencv/.cxx/Debug/3fj1s5oq/x86/CMakeFiles/edit_cache.dir
-D:/App/Canny Edge Detection Flutter/android/opencv/.cxx/Debug/3fj1s5oq/x86/CMakeFiles/rebuild_cache.dir
